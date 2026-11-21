@@ -1,1 +1,7 @@
-{ "Key": "@forgiveallsins", "users": ["1206314805833637910"], "bindings": {} }
+{
+  "Key": "@forgiveallsins",
+  "users": ["1206314805833637910"],
+  "bindings": {
+    "417806316": "1206314805833637910"
+  }
+}
